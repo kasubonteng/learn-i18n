@@ -1,0 +1,199 @@
+{
+	"home": {
+		"hero": {
+			"title": "We Build <span class='text-[#5d3b16]'> Professional </span> Websites And Mobile Apps",
+			"subtitle": "We are a team of talented developers and designers who are passionate about creating the best websites and mobile apps for your business.",
+			"happyClients": "Happy Clients"
+		},
+		"button": {
+			"contactUs": "Contact Us"
+		},
+		"ourFocus": {
+			"title": "Our Focus",
+			"subtitle": "We are a team of talented developers and designers who are passionate about creating the best websites and mobile apps for your business.",
+			"features": [
+				{
+					"title": "Web Development",
+					"description": "We build professional websites that are fast, secure, and easy to manage.",
+					"image": "https://picsum.photos/200/100"
+				},
+				{
+					"title": "Mobile App Development",
+					"description": "We create mobile apps that are user-friendly, reliable, and scalable.",
+					"image": "https://picsum.photos/200/100"
+				},
+				{
+					"title": "UI/UX Design",
+					"description": "We design beautiful user interfaces that are intuitive and engaging.",
+					"image": "https://picsum.photos/200/100"
+				},
+				{
+					"title": "SEO Optimization",
+					"description": "We optimize websites for search engines to increase visibility and traffic.",
+					"image": "https://picsum.photos/200/100"
+				}
+			]
+		},
+		"ourWork": {
+			"title": "Our Work",
+			"projects": [
+				{
+					"title": "Project 1",
+					"link": "/project1",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Happy Clients" },
+						{ "value": 100, "description": "Projects Completed" },
+						{ "value": 100, "description": "Cups of Coffee" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "CEO",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Project 2",
+					"link": "/project2",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Happy Clients" },
+						{ "value": 100, "description": "Projects Completed" },
+						{ "value": 100, "description": "Cups of Coffee" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "CEO",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Project 3",
+					"link": "/project3",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Happy Clients" },
+						{ "value": 100, "description": "Projects Completed" },
+						{ "value": 100, "description": "Cups of Coffee" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "CEO",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Project 4",
+					"link": "/project4",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Happy Clients" },
+						{ "value": 100, "description": "Projects Completed" },
+						{ "value": 100, "description": "Cups of Coffee" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "CEO",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Project 5",
+					"link": "/project5",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Happy Clients" },
+						{ "value": 100, "description": "Projects Completed" },
+						{ "value": 100, "description": "Cups of Coffee" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "CEO",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Project 6",
+					"link": "/project6",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Happy Clients" },
+						{ "value": 100, "description": "Projects Completed" },
+						{ "value": 100, "description": "Cups of Coffee" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "CEO",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				}
+			]
+		},
+		"faqs": {
+			"title": "FAQ",
+			"subtitle": "We are a team of talented developers and designers who are passionate about creating the best websites and mobile apps for your business.",
+			"accordionText": "Have a question that's not answered here?",
+			"accordionLink": "Contact Us",
+			"questions": [
+				{
+					"question": "How much does it cost to build a website?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "How long does it take to build a website?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Do you provide support after the website is live?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Do you provide hosting services?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Do you provide SEO services?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				}
+			]
+		},
+		"contactUs": {
+			"details": {
+				"title": "Talk to our <span class=' text-[#5d3b16]'>team of experts</span>",
+				"subtitle1": "We are a team of talented developers and designers who are passionate about creating the best websites and mobile apps for your business.",
+				"subtitle2": "We are a team of talented developers and designers who are passionate about creating the best websites and mobile apps for your business."
+			}
+		},
+		"ourProcess": {
+			"title": "Our <span class=' text-primary'>Process</span>",
+			"steps": [
+				{
+					"step": "01 STEP",
+					"title": "Initial Consultation",
+					"description": "We will discuss your project and provide you with a quote."
+				},
+				{
+					"step": "02 STEP",
+					"title": "Design & Development",
+					"description": "We will design and develop your website."
+				},
+				{
+					"step": "03 STEP",
+					"title": "Quality Assurance",
+					"description": "We will test your website to ensure it is working correctly."
+				},
+				{
+					"step": "04 STEP",
+					"title": "Launch",
+					"description": "We will launch your website and provide you with ongoing support."
+				}
+			]
+		}
+	}
+}

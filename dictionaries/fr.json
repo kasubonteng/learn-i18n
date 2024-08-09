@@ -1,0 +1,199 @@
+{
+	"home": {
+		"hero": {
+			"title": "Nous Construisons des Sites Web et des Applications Mobiles <span class='text-[#5d3b16]'> Professionnels </span>",
+			"subtitle": "Nous sommes une équipe de développeurs et de designers talentueux, passionnés par la création des meilleurs sites web et applications mobiles pour votre entreprise.",
+			"happyClients": "Clients Satisfaits"
+		},
+		"button": {
+			"contactUs": "Contactez-nous"
+		},
+		"ourFocus": {
+			"title": "Notre Priorité",
+			"subtitle": "Nous sommes une équipe de développeurs et de designers talentueux, passionnés par la création des meilleurs sites web et applications mobiles pour votre entreprise.",
+			"features": [
+				{
+					"title": "Développement Web",
+					"description": "Nous construisons des sites web professionnels, rapides, sécurisés et faciles à gérer.",
+					"image": "https://picsum.photos/200/100"
+				},
+				{
+					"title": "Développement d'Applications Mobiles",
+					"description": "Nous créons des applications mobiles conviviales, fiables et évolutives.",
+					"image": "https://picsum.photos/200/100"
+				},
+				{
+					"title": "Design UI/UX",
+					"description": "Nous concevons des interfaces utilisateur magnifiques, intuitives et engageantes.",
+					"image": "https://picsum.photos/200/100"
+				},
+				{
+					"title": "Optimisation SEO",
+					"description": "Nous optimisons les sites web pour les moteurs de recherche afin d'augmenter la visibilité et le trafic.",
+					"image": "https://picsum.photos/200/100"
+				}
+			]
+		},
+		"ourWork": {
+			"title": "Nos Réalisations",
+			"projects": [
+				{
+					"title": "Projet 1",
+					"link": "/projet1",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Clients Satisfaits" },
+						{ "value": 100, "description": "Projets Réalisés" },
+						{ "value": 100, "description": "Tasses de Café" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "PDG",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Projet 2",
+					"link": "/projet2",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Clients Satisfaits" },
+						{ "value": 100, "description": "Projets Réalisés" },
+						{ "value": 100, "description": "Tasses de Café" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "PDG",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Projet 3",
+					"link": "/projet3",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Clients Satisfaits" },
+						{ "value": 100, "description": "Projets Réalisés" },
+						{ "value": 100, "description": "Tasses de Café" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "PDG",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/300/200"
+					}
+				},
+				{
+					"title": "Projet 4",
+					"link": "/projet4",
+					"image": "https://picsum.photos/200/100",
+					"stats": [
+						{ "value": 100, "description": "Clients Satisfaits" },
+						{ "value": 100, "description": "Projets Réalisés" },
+						{ "value": 100, "description": "Tasses de Café" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "PDG",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Projet 5",
+					"link": "/projet5",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Clients Satisfaits" },
+						{ "value": 100, "description": "Projets Réalisés" },
+						{ "value": 100, "description": "Tasses de Café" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "PDG",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				},
+				{
+					"title": "Projet 6",
+					"link": "/projet6",
+					"image": "https://picsum.photos/300/200",
+					"stats": [
+						{ "value": 100, "description": "Clients Satisfaits" },
+						{ "value": 100, "description": "Projets Réalisés" },
+						{ "value": 100, "description": "Tasses de Café" }
+					],
+					"review": {
+						"name": "John Doe",
+						"position": "PDG",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget turpis at",
+						"image": "https://picsum.photos/200/100"
+					}
+				}
+			]
+		},
+		"faqs": {
+			"title": "FAQ",
+			"subtitle": "Nous sommes une équipe de développeurs et de designers talentueux, passionnés par la création des meilleurs sites web et applications mobiles pour votre entreprise.",
+			"accordionText": "Vous avez une question à laquelle il n'y a pas de réponse ici ?",
+			"accordionLink": "Contactez-nous",
+			"questions": [
+				{
+					"question": "Combien coûte la création d'un site web?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Combien de temps faut-il pour créer un site web?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Fournissez-vous un support après la mise en ligne du site?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Proposez-vous des services d'hébergement?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				},
+				{
+					"question": "Proposez-vous des services SEO?",
+					"answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi. Nullam nec purus et metus lacinia sollicitudin. Nulla facilisi."
+				}
+			]
+		},
+		"contactUs": {
+			"details": {
+				"title": "Parlez à notre <span class=' text-[#5d3b16]'>équipe d'experts</span>",
+				"subtitle1": "Nous sommes une équipe de développeurs et de designers talentueux, passionnés par la création des meilleurs sites web et applications mobiles pour votre entreprise.",
+				"subtitle2": "Nous sommes une équipe de développeurs et de designers talentueux, passionnés par la création des meilleurs sites web et applications mobiles pour votre entreprise."
+			}
+		},
+		"ourProcess": {
+			"title": "Notre <span class=' text-primary'>Processus</span>",
+			"steps": [
+				{
+					"step": "01 ÉTAPE",
+					"title": "Consultation Initiale",
+					"description": "Nous discuterons de votre projet et vous fournirons un devis."
+				},
+				{
+					"step": "02 ÉTAPE",
+					"title": "Conception & Développement",
+					"description": "Nous concevrons et développerons votre site web."
+				},
+				{
+					"step": "03 ÉTAPE",
+					"title": "Assurance Qualité",
+					"description": "Nous testerons votre site web pour nous assurer qu'il fonctionne correctement."
+				},
+				{
+					"step": "04 ÉTAPE",
+					"title": "Lancement",
+					"description": "Nous lancerons votre site web et vous fournirons un support continu."
+				}
+			]
+		}
+	}
+}
